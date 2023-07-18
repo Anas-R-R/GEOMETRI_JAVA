@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.anas.Belajar_Geometri">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logoku"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logoku"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name="com.anas.Belajar_Geometri.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.anas.Belajar_Geometri.MainActivity" />
+        <activity android:name="com.anas.Belajar_Geometri.BangunDatar" />
+        <activity android:name="com.anas.Belajar_Geometri.BangunRuang" />
+        <activity android:name="com.anas.Belajar_Geometri.Jaring" />
+        <activity android:name="com.anas.Belajar_Geometri.About" />
+        <activity android:name="com.anas.Belajar_Geometri.MateriBangunDatar" />
+        <activity android:name="com.anas.Belajar_Geometri.MateriBangunRuang" />
+        <activity android:name="com.anas.Belajar_Geometri.MateriJaring" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorBangunDatar" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorBangunRuang" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorPersegi" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorPersegiPanjang" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorLingkaran" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorSegitigaSamaSisi" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorSegitigaSamaKaki" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorSegitigaSikuSiku" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorBelahKetupat" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorLayangLayang" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorTrapesium" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorKubus" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorBalok" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorKerucut" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorLimasSegiempat" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorLimasSegitiga" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorBola" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorPrisma" />
+        <activity android:name="com.anas.Belajar_Geometri.KalkulatorTabung" />
+    </application>
+
+</manifest>
