@@ -10,4 +10,5 @@ Pemrograman Mobile
 - Hikmal Adma (210202599)
 - Singgih Luhur Pambudi (210202609)
 
-![poster_mobile](https://github.com/Anas-R-R/GEOMETRI_JAVA/assets/139727555/54ccc031-b112-4dff-89af-9db0d0ea7c6f)
+![Poster mobile](https://github.com/Anas-R-R/GEOMETRI_JAVA/assets/139727555/e2e36fcb-f90b-4bfa-b9df-db3fe96b9391)
+
